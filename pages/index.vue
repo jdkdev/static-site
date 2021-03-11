@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-          Nuxt Nightworks Sample Starter
+         NEW Nuxt Nightworks Sample Starter
       </h1>
       <h2 class="subtitle">
         template for creating nuxt apps
